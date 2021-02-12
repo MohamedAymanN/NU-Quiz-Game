@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1523910758 source:d:\ecen-303\assignment 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

@@ -1,0 +1,11 @@
+What does CIT Stand for?,Computer Information Technology,Corporate Income Tax,Catch Info Tight,Country In Terror,A
+What is the brand of computers located in the new computer lab?,Dell,Mac,HP,Lenovo,D
+What is NU's nickname?,The gate of tech,The lead uni,MIT el shark el awsat,The Nile river,C
+What is NU's mistakenly nickname?,gam3et masr,el AUC,gam3et october,Gam3et zewil,D
+Where is NU located?,medan micky mouse,medan juhayna,medan el sham,medan howa 2alak fen,B
+The password for the pcs in the uni?,ABCD@1234,ABDC@1234,ABCD!1234,Wael3a2l,A
+Who is the dean of Business?,Wael3a2l,hassan aly,ibrahim saleh,mohamed ayman,B
+Who is the dean of CS?,sameh el ansary,samhaa el ansary,sameh el beltagy,samhaa el beltagy,D
+Who is the doctor for Computer Systems?,Mohamed wahby,Karim Sobhy,Karim Hany,Wael3a2l,A
+How many credit hours needed to graduate for engineering?,190,180,162,172,D
+When was NU established?,2007,2010,2011,2012,B
